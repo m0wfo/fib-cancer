@@ -1,13 +1,13 @@
 # fib
 
-FIXME: write description
+My take on the node.js is/isn't a carcinogen debate
 
 ## Usage
 
-FIXME: write
+lein deps fetches aleph; I just ran the server in core through a REPL. YMMV.
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011 Chris Mowforth
 
 Distributed under the Eclipse Public License, the same as Clojure.
